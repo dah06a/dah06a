@@ -1,10 +1,10 @@
 - 👋 Hi, I’m David,
 
-- 👀 I’m interested in becoming a full stack developer and changing my career!
+- 👀 I’m a recent graduate and now an instructor at a full-stack coding bootcamp!
 
-- 🌱 I’m currently learning backend tools like MongoDB, Mongoose, and Express.
+- 🌱 I’m learning more all the time and currently working with React, React-Native, Node.js, and MongoDB
 
-- 💞️ I’m looking to collaborate on projects that will help me get a job as a developer.
+- 💞️ I’m looking to collaborate on projects and looking for work as a full-time developer.
 
-- 📫 How to reach me:  dah06a@acu.edu
+- 📫 Reach out to me at: dah06a@acu.edu
 
