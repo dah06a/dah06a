@@ -1,10 +1,10 @@
 - 👋 Hi, I’m David,
 
-- 👀 I’m a recent graduate and now an instructor at a full-stack coding bootcamp!
+- 👀 I’m a QA Engineer and a frontend instructor with Nucamp Coding Bootcamp!
 
-- 🌱 I’m learning more all the time and currently working with React, React-Native, Node.js, and MongoDB
+- 🌱 I’m learning more all the time and currently working with React.
 
-- 💞️ I’m looking to collaborate on projects and looking for work as a full-time developer.
+- 💞️ I’m looking to collaborate on projects and continue to improve my developer skills.
 
 - 📫 Reach out to me at: dah06a@acu.edu
 
